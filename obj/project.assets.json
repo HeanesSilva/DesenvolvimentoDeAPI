@@ -8563,11 +8563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/heanessilva/Documents/HEANES/CURSO SENAI - 2023 2024 2025/DESENVOLVIMENTO DE API/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE/Exo.WebApi/Exo.WebApi.csproj",
+      "projectUniqueName": "/Users/heanessilva/Documents/HEANES/CURSO SENAI - 2023 2024 2025/DESENVOLVIMENTO DE API/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE1/Exo.WebApi/Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "/Users/heanessilva/Documents/HEANES/CURSO SENAI - 2023 2024 2025/DESENVOLVIMENTO DE API/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE/Exo.WebApi/Exo.WebApi.csproj",
+      "projectPath": "/Users/heanessilva/Documents/HEANES/CURSO SENAI - 2023 2024 2025/DESENVOLVIMENTO DE API/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE1/Exo.WebApi/Exo.WebApi.csproj",
       "packagesPath": "/Users/heanessilva/.nuget/packages/",
-      "outputPath": "/Users/heanessilva/Documents/HEANES/CURSO SENAI - 2023 2024 2025/DESENVOLVIMENTO DE API/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE/Exo.WebApi/obj/",
+      "outputPath": "/Users/heanessilva/Documents/HEANES/CURSO SENAI - 2023 2024 2025/DESENVOLVIMENTO DE API/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE1/Exo.WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/heanessilva/.nuget/NuGet/NuGet.Config"

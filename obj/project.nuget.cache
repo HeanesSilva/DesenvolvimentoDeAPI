@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6rD3ULd/dzY=",
+  "dgSpecHash": "e015GS1bHjU=",
   "success": true,
-  "projectFilePath": "/Users/heanessilva/Documents/HEANES/CURSO SENAI - 2023 2024 2025/DESENVOLVIMENTO DE API/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE/Exo.WebApi/Exo.WebApi.csproj",
+  "projectFilePath": "/Users/heanessilva/Documents/HEANES/CURSO SENAI - 2023 2024 2025/DESENVOLVIMENTO DE API/MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE1/Exo.WebApi/Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/heanessilva/.nuget/packages/humanizer.core/2.2.0/humanizer.core.2.2.0.nupkg.sha512",
     "/Users/heanessilva/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
